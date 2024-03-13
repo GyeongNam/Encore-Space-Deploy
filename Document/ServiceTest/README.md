@@ -4,7 +4,6 @@
 
 ![img_1.png](img/img_1.png)
 
-
 ## 로그인 테스트 
 ### - 테스트용 아이디
 - 김선국 강사님 ID: ksg3941234@gmail.com / PASS: e123456789
