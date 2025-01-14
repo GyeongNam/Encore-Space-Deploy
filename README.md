@@ -171,7 +171,6 @@
 
 ## ✅ 회원가입 및 로그인 서비스
 
----
 
 <p align="center">
   <img src="/docs/img/loginFlow.png"/>
@@ -257,7 +256,6 @@
 
 ## ✅ 게시판 서비스
 
----
 
 ### 게시글 작성
 
@@ -374,6 +372,8 @@
     <img src="/docs/cicd.png"/>
 </p>
 
+<br>
+
 
 # 🌐 Service Test
 
@@ -381,14 +381,7 @@
 ![img_1.png](/docs/ServiceTest/img/img_1.png)
 
 ## 로그인 테스트
-### - 테스트용 아이디
--  강사님 ID: ksg3941234@gmail.com / PASS: e123456789
--  매니저님 ID: encorespace@gmail.com / PASS: e123456789
-
-
 ![img_2.png](/docs/ServiceTest/img/img_2.png)
-
-
 
 ## 로그인이 완료 후 MYPAGE 확인
 
