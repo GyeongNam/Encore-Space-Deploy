@@ -380,9 +380,10 @@
 6. **S3로 배포**  
    `aws s3 sync ./Space_Frontend/dist/spa s3://spaceencore.shop` 명령어로 S3에 빌드 파일을 동기화하여 배포합니다.
 
-
+---
 
 ### 배포 프로세스
+
 <p align="center">
     <img src="/docs/cicd.png"/>
 </p>
